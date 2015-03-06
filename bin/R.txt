@@ -35,8 +35,9 @@ int color yellow 0x7f07000d
 int dimen activity_horizontal_margin 0x7f080000
 int dimen activity_vertical_margin 0x7f080001
 int dimen title_height 0x7f080002
-int drawable ic_launcher 0x7f020000
-int drawable icon_defout_image 0x7f020001
+int drawable hat 0x7f020000
+int drawable ic_launcher 0x7f020001
+int drawable icon_defout_image 0x7f020002
 int id action_settings 0x7f040008
 int id fullscreen 0x7f040003
 int id iv_left_menu 0x7f040006

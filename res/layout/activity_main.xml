@@ -27,8 +27,11 @@
         
     </cn.huna.lijie.eating.customView.poolView.PoolView>
     
-    <cn.huna.lijie.eating.customView.PoolView
-        android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:textColor="@color/white"/>
+    <cn.huna.lijie.eating.customView.PopView
+        android:layout_gravity="center"
+        android:layout_width="225dp"
+        android:layout_height="110dp"
+        android:textColor="@color/white"
+        android:background="@drawable/hat"
+        android:layout_marginTop="50dp"/>
 </LinearLayout>
